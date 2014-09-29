@@ -49,6 +49,6 @@ license
 
 The Fair Use Act states "an act of circumvention that is carried out to gain access to a work of substantial public interest solely for purposes of criticism, comment, news reporting, scholarship, or research"
 
-This analysis is made avaliable for the purpose of criticism, comment, scholarship, and research.
+This analysis is made available for the purpose of criticism, comment, scholarship, and research.
 
 
